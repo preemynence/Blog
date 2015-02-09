@@ -37,7 +37,7 @@ $(function() {
                     name: name,
                     phone: phone,
                     email: email,
-                    subject: "Blog Contact Me"
+                    _subject: "Blog Contact Form submission."
                     message: message
                 },
                 dataType: "json",
